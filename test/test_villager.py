@@ -1,6 +1,6 @@
 import unittest
-import villager
-import resource
+from kotj import villager
+from kotj import resource
 
 class TestVillager(unittest.TestCase):
     def checkEvolution(self, theVillager, expectedState):

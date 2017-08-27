@@ -1,7 +1,7 @@
 import unittest
-import village
-import villager
-import resource
+from kotj import village
+from kotj import villager
+from kotj import resource
 
 class TestVillage(unittest.TestCase):
 
