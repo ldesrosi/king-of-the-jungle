@@ -1,9 +1,11 @@
+[![Build Status](https://travis-ci.org/ldesrosi/king-of-the-jungle.svg?branch=master)](https://travis-ci.org/ldesrosi)
+
 Overview
 -------
-This project was developed as a response to the large number of beginning Python developer who want to learn how to write a text adventure.
+This is a project that me and my son started developing to introduce him to test driven development.  The intent is to create a text-based adventure/strategy game where you are in charge of a small village of survivors (not sure yet, as to what they surviving from ).
 
-Although there are many approaches, this project is designed to be expandable with "pluggable" elements.
+Here are some of the early story plot that my son is considering :)
+1. Set of survival rules left by a man who ruled in the past you've been put here against many other tribes to try to survive
+1. You and many other tourists have gotten lost in a jungle and now have to rebuild a community to survive until you can find civilization again.
 
-Tutorial
---------
-For an in-depth tutorial, please see [How to Write a Text Adventure in Python](http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python/).
+
