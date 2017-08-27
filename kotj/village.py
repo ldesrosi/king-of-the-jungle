@@ -1,5 +1,5 @@
-import villager
-import resource
+from kotj import villager
+from kotj import resource
 import random
 
 class Village:
