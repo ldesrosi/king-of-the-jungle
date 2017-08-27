@@ -1,0 +1,138 @@
+Setting up the game:
+
+To play the game, start by rolling a D20 die to determine the number of
+villagers you will start with.  Also give each player 20 waters and 20 foods.
+
+Now to know how many enemies, roll a D4 die to determine the number of
+opposite clan. also roll a D20 to determine how many member each clan has.
+Finally also assign each clan 20 waters and 20 foods.
+
+Playing the game:
+
+Game is round based with the player starting first to make his assignment,
+then each clan follow.
+
+Player will need to:
+* Assign villagers to a task
+* Collect the resources from the previous turn
+* Build (if possible) a building or a defense
+* Pick a "Lucky card" which is a random event (future)
+* Calculate the state of the village
+* Attack another village (optional) (future)
+
+>Villager Assignment
+  >Gatherer:
+    >Miner
+    >LumberJack
+    >Hunter
+
+>Collection rate
+> Rock - 1D5
+  > Determine what you found - 1D20 - for each rock mined
+> Wood - 2 wood each turn
+> Wild food - 1D3 - 1 get nothing, 2 is 2-3, 3 is 3-4 pieces
+
+>Building Menu
+  >House (Req. 20 rocks, 8 woods) - How many people: 2
+    >Lvl Up (Req 10 rocks, 5 woods) - 2 more peoples per level
+    >(If lvl 3)Upgrade to:
+      >Blacksmith (lvl 4 or more) (Req. 10 rocks, 10 iron)
+                    (Outputs: 1 wep per 2 turn per person)
+      >Farm (lvl 4 or more) (Req 10 rocks, 10 woods, up-to-4 farmers)
+                    (Outputs: 10-20 foods per 4 rounds per farmer,
+                              Need 1-4 wild foods)
+      >Barracks (lvl 4 or more)
+      >Sorcerer's Abode (lvl 4 or more)
+      >House lvl 4 (or more)
+
+############################################
+
+
+
+
+
+>Start
+  >First Turn/Round
+    >Player's Turn (He may just skip his turn and gain his resources)
+      >Label His Village (Name and Description)
+      >Assign Villagers
+      >Gather (For yourself ONLY) (Not compulsory)
+  >Processing
+    >Calculates:
+      Income:
+        Food/Water
+      Outcome:
+        >What happened (Events(Later versions))
+  >Enemy's Turn(Later versions)
+
+>Phases
+  >Player's Turn (He may just skip his turn and gain his resources)
+    >Assign Villagers: (Not compulsory)
+      >(Blacksmiths)Choose Craft (Not compulsory)
+      >(Sorcerer)Choose Enchantment (Not compulsory)
+    >Build (If possible) (Not compulsory)
+    >Gather(For yourself) (Not compulsory)
+    >Attack(Later versions) (Not compulsory)
+  >Processing
+    >Calculates:
+      Mood
+      Income:
+        Money
+        Food/Water
+        Defense Stats
+      Outcome:
+        >Rebels
+        >What happened (Events(Later versions))
+  >Enemy's Turn(Later versions)
+  >Total Outcome
+    >Calculates:
+      Final Mood
+      Damage Done
+
+>Obj:
+  >Build a big city (Not compulsory)
+  >Remove Opposition (Not compulsory)
+  >Will come up with a "win condition"
+
+
+###############################################################################
+
+
+Game works on ticks(seconds) for now for every certain amount of ticks. Village
+will consist of a max of 20 villagers to start. Each villager can either be a
+Miner or a Lumberjack. Miners will gather Rock type resources of up to 3 pieces
+per villager, and Lumberjacks will gather up to 3 pieces of wood per villager.
+At first you can only gather stone (Miners). You can then with a certain amount
+of stone and wood make a house. Your villagers will be defenseless and homeless
+to start but they will be well fed and hydrated.
+
+House:
+Can house any civilians. Houses start at level 1(State 1). With enough
+materials, you can upgrade the house to level 2 and then 3. Once the house is
+level 3, you can either keep upgrading it as a house(Will have a benefit in the
+future), or make it into a Blacksmith's house, a barracks, a sorcerer's abode,
+or a farm.
+
+Farm:
+Farms will produce food, per level starting at level 3 and upgradable only as a
+farm in the future. It can only house 1 family(This might be 4 to 6 people on
+the condition that at least 1 is a farmer!).
+
+Blacksmith House:
+Second most expensive. Can only house blacksmiths. If you have enough resources,
+you can ask him to make tools or armor for your villagers. If he is un-happy, he
+will produce things at 3/4 quantity and 1/2 speed.
+
+Sorcerer's Abode:
+Can only house 1 sorcerer! More expensive then any other building. If you have
+enough resources, you can ask him to enchant your items for you. If he is
+un-happy, he will enchant at 3/4 quantity and 1/2 speed.
+
+Barracks:
+It is more expensive to build then a home or farm. Acts like a home but only
+soldiers can be there. The longer the soldiers are there the un-happier they
+get. It also acts as storage for weapons. It has a level 3 capacity of 8
+soldiers.
+
+List of materials:
+List of Weapons:

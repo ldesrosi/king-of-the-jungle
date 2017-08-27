@@ -1,0 +1,57 @@
+Village
+    House -> House Upgrades
+          -> Types of House
+    Walls
+    Villagers --> Villagers == 0?  You lose
+        --> Basic Villagers = Random number between 20-60
+            --> Gatherer --> Miner
+                         --> Lumber Jack
+        --> Blacksmith
+        --> Soldiers
+        --> Sorcerer
+        --> Farmers
+
+Resources
+    Wood
+    Rock -> metals and gems
+
+    Food
+    Water
+
+Enemies
+    Rebels
+
+
+################################################################
+
+
+Village
+    Player
+      Inventory
+
+    Inventory
+    House -> House Upgrades
+          -> Types of House
+    Walls
+    Villagers --> Villagers == 0?  You lose
+        --> Basic Villagers = Random number between 20-60
+            --> Gatherer --> Miner
+                         --> Lumber Jack
+        --> Blacksmith
+        --> Soldiers
+        --> Sorcerer
+        --> Farmers
+
+
+Round???
+
+Resources
+    Wood
+    Rock -> Iron
+
+    Food
+    Water
+
+Enemies
+    Arch-enemy
+    Rebels
