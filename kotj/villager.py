@@ -1,6 +1,6 @@
 from enum import Enum
 
-import resource
+from kotj import resource
 
 class State(Enum):
     HAPPY = 1
